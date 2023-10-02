@@ -1,0 +1,103 @@
+
+newmtl material1
+Ka 139 0 0
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./Sapin TAC vertical.jpg
+
+
+newmtl material2
+Ka 192 192 192
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./la maison DUBOIS.jpg
+
+
+newmtl material3
+Ka 192 192 192
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./Sheathing.jpg
+
+
+newmtl material4
+Ka 192 192 192
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./WoodSoft.jpg
+
+
+newmtl material5
+Ka 192 192 192
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./BrickWhite.jpg
+
+
+newmtl material6
+Ka 210 180 140
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./WoodSoft.jpg
+
+
+newmtl material7
+Ka 128 128 128
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+map_Kd ./NailPlate.jpg
+
+
+newmtl material8
+Ka 1 1 1
+Kd 0 0.501960784313725 0
+Ks 1 1 1
+d 0.101960784313725
+Tr 0.898039215686275
+
+
+newmtl material9
+Ka 1 1 1
+Kd 1 0 0
+Ks 1 1 1
+d 0.501960784313725
+Tr 0.498039215686275
+
+
+newmtl material10
+Ka 1 1 1
+Kd 0.501960784313725 0 0.501960784313725
+Ks 1 1 1
+d 0.501960784313725
+Tr 0.498039215686275
+
+
+newmtl material11
+Ka 1 1 1
+Kd 0.180392156862745 0.545098039215686 0.341176470588235
+Ks 1 1 1
+d 0.501960784313725
+Tr 0.498039215686275
+
+
+newmtl material12
+Ka 1 1 1
+Kd 0.2 0.4 1
+Ks 1 1 1
+d 0.501960784313725
+Tr 0.498039215686275
+
